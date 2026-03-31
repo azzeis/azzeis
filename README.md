@@ -30,19 +30,19 @@ I enjoy tackling complex problems like **system design**, **distributed transact
 ## GitHub Stats
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aizacoders&theme=github_dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aizacoders&theme=dark"
 width="100%"
 />
 <br/>
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aizacoders&theme=github_dark"
-width="33%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aizacoders&theme=dark"
+width="32%"
 /> <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aizacoders&theme=github_dark"
-width="33%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aizacoders&theme=dark"
+width="32%"
 /> <img 
-src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aizacoders&theme=github_dark"
-width="33%"
+src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aizacoders&theme=dark"
+width="32%"
 />
 <br clear="both"/>
 
