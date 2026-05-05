@@ -1,50 +1,145 @@
-# Hi, I'm Miftakhul Aziz
+<h1 align="center">Hi, I'm Miftakhul Aziz 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=28&pause=1200&color=6DA4FF&left=true&vCenter=true&width=820&lines=Software+Engineer;Backend+Engineer;Microservices+%26+Event-Driven+Systems;Clean+Architecture+Advocate)](https://github.com/aizacoders)
+<p align="center">
+  <a href="https://github.com/aizacoders">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=6DA4FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Backend+Engineer;Microservices+%26+Event-Driven+Systems;Clean+Architecture+Advocate"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/miftakhullaziz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/aizacoders">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miftakhullaziz/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aizacoders)
+## About Me
+
+I'm a **Software Engineer** based in **Indonesia 🇮🇩**, focused on building reliable, scalable, and maintainable backend systems.
+
+I specialize in **microservices**, **event-driven architecture**, **distributed systems**, and **observability**. I enjoy working on complex engineering challenges such as high-throughput messaging, distributed transactions, production-grade APIs, and clean system design.
+
+My engineering approach emphasizes:
+
+- Clean Architecture
+- Maintainable Code
+- Scalable Backend Design
+- Reliable Distributed Systems
+- Observability-First Development
 
 ---
 
-### About Me
-Software Engineer based in **Indonesia 🇮🇩**.  
-I specialize in designing and building **scalable backend systems**, with a focus on **microservices**, **event-driven systems**, and **observability**.  
+## Tech Stack
 
-I enjoy tackling complex problems like **system design**, **distributed transactions**, **high-throughput messaging**, and **production-grade APIs**. My approach emphasizes **clean architecture**, **maintainability**, and **reliability**.
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+</p>
+
+### Backend & Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white" />
+</p>
+
+### Databases & Messaging
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+</p>
+
+### Cloud, DevOps & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+### Observability & Monitoring
+
+<p>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tempo-7B61FF?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zipkin-F9A03C?style=flat-square&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
+
+### Also Worked With
+
+<p>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+</p>
 
 ---
-
-### Tech Stack
-- Languages: **Java**, **Go**, **Python**, **TypeScript**, **JavaScript**, **C++**
-- Backend & Frameworks: **Spring**, **Hibernate**, **Node.js**, **Gin**
-- Databases & Messaging: **PostgreSQL**, **MySQL**, **MongoDB**, **Redis**, **Elasticsearch**, **Kafka**
-- Cloud & Tools: **AWS**, **GCP**, **Docker**, **Git**
-- Observability: **Grafana**, **Elasticsearch**
-- Tracing & Logging: **Jaeger**, **Tempo**, **Zipkin**, **Loki**, **ELK Stack**
-- Frontend: **Nuxt**, **Vue**, **Next.js**, **React**
-- Also worked with: **Apache Spark**, **Swagger/OpenAPI**
 
 ## GitHub Stats
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aizacoders&theme=dark"
-width="100%"
-/>
-<br/>
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aizacoders&theme=dark"
-width="32%"
-/> <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aizacoders&theme=dark"
-width="32%"
-/> <img 
-src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aizacoders&theme=dark"
-width="32%"
-/>
-<br clear="both"/>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aizacoders&theme=github_dark"
+    width="100%"
+    alt="GitHub Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aizacoders&theme=github_dark"
+    width="32%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aizacoders&theme=github_dark"
+    width="32%"
+    alt="Most Commit Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aizacoders&theme=github_dark"
+    width="32%"
+    alt="Productive Time"
+  />
+</p>
+
+---
+
+<p align="center">
+  <i>Building scalable backend systems with clean architecture, observability, and reliability.</i>
+</p>
 
 
 <!-- <div align="center">
