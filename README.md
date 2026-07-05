@@ -1,359 +1,125 @@
-<h1 align="center">Hi, I'm Miftakhul Aziz 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/aizacoders">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=6DA4FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Backend+Engineer;Microservices+%26+Event-Driven+Systems;Clean+Architecture+Advocate"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+# Hi, I'm Azzeis 👋
 
-<p align="center">
+### SOFTWARE ENGINEER · BACKEND ENGINEER
+
+<img src="https://img.shields.io/badge/BUILDING-SCALABLE_SYSTEMS-FFE500?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/FOCUS-CLEAN_ARCHITECTURE-FF4D4D?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/STYLE-RELIABLE_BACKEND-7CFF6B?style=for-the-badge&labelColor=111111" />
+
+<br />
+<br />
+
+<p>
   <a href="https://www.linkedin.com/in/miftakhullaziz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" />
   </a>
-  <a href="https://github.com/aizacoders">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/azzeis">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
   </a>
 </p>
+
+</div>
 
 ---
 
-## About Me
+## `ABOUT_ME`
 
-I'm a **Software Engineer** based in **Indonesia 🇮🇩**, focused on building reliable, scalable, and maintainable backend systems.
+```txt
++------------------------------------------------------------+
+| Software Engineer based in Indonesia 🇮🇩                   |
+| Focused on reliable, scalable, production-ready systems.   |
+|                                                            |
+| Backend Engineering   | Microservices                      |
+| Event-Driven Systems  | Distributed Systems                |
+| API Design            | Observability                      |
+| Clean Architecture    | Modern Web Apps                    |
++------------------------------------------------------------+
+```
 
-I specialize in **microservices**, **event-driven architecture**, **distributed systems**, and **observability**. I enjoy working on complex engineering challenges such as high-throughput messaging, distributed transactions, production-grade APIs, and clean system design.
-
-My engineering approach emphasizes:
-
-- Clean Architecture
-- Maintainable Code
-- Scalable Backend Design
-- Reliable Distributed Systems
-- Observability-First Development
+I build backend systems with a strong focus on **clean architecture**, **maintainability**, **observability**, and **reliability**.
 
 ---
 
-## Tech Stack
+## `TECH_STACK`
 
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-</p>
-
-### Backend & Frameworks
+### Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white" />
-</p>
-
-### Databases & Messaging
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-</p>
-
-### Cloud, DevOps & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
-### Observability & Monitoring
-
-<p>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tempo-7B61FF?style=flat-square&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zipkin-F9A03C?style=flat-square&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00" />
+  <img src="https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" />
+  <img src="https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=white&labelColor=6DB33F" />
+  <img src="https://img.shields.io/badge/Hibernate-111111?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=59666C" />
+  <img src="https://img.shields.io/badge/Gin-111111?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Nuxt-111111?style=for-the-badge&logo=nuxtdotjs&logoColor=white&labelColor=00DC82" />
 </p>
 
-### Also Worked With
+### Database, Messaging & Infra
 
 <p>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" />
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" />
+  <img src="https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC382D" />
+  <img src="https://img.shields.io/badge/Kafka-111111?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=231F20" />
+  <img src="https://img.shields.io/badge/Elasticsearch-111111?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=005571" />
+</p>
+
+### Cloud, DevOps & Observability
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" />
+  <img src="https://img.shields.io/badge/GCP-111111?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=4285F4" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED" />
+  <img src="https://img.shields.io/badge/Grafana-111111?style=for-the-badge&logo=grafana&logoColor=white&labelColor=F46800" />
+  <img src="https://img.shields.io/badge/Jaeger-111111?style=for-the-badge&logo=jaeger&logoColor=black&labelColor=66CFE3" />
+  <img src="https://img.shields.io/badge/ELK_Stack-111111?style=for-the-badge&logo=elasticstack&logoColor=white&labelColor=005571" />
 </p>
 
 ---
 
-## GitHub Stats
+## `ENGINEERING_MODE`
+
+```txt
+> Clean code over clever code.
+> Reliable system over fancy architecture.
+> Observability before panic debugging.
+> Simplicity first, scalability next.
+```
+
+---
+
+## `GITHUB_STATS`
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aizacoders&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azzeis&theme=github_dark"
     width="100%"
-    alt="GitHub Profile Details"
+    alt="GitHub Profile Summary"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aizacoders&theme=github_dark"
-    width="32%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aizacoders&theme=github_dark"
-    width="32%"
-    alt="Most Commit Language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aizacoders&theme=github_dark"
-    width="32%"
-    alt="Productive Time"
-  />
-</p>
-
----
-
-<p align="center">
-  <i>Building scalable backend systems with clean architecture, observability, and reliability.</i>
-</p>
-
-
-<!-- <div align="center">
-## Contact
-
-* LinkedIn: [https://linkedin.com/in/miftakhullaziz](https://linkedin.com/in/miftakhullaziz)
-* Portfolio: [https://miftakhulaziz.github.io](https://aizacoders.github.io)
-* Email: [miftakhullaziz@gmail.com](mailto:miftakhull.aziz@gmail.com)
-  
-# 👋 Hi there, I'm Aizaa Dev (Miftakhul Aziz)
-
-### 🚀 Backend Software Engineer | Building Scalable Systems
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Developer;Microservices+Architect;Event-Driven+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/miftakhullaziz/)
-[![Website](https://img.shields.io/badge/Portfolio-Visit-green?style=social&logo=google-chrome)](https://miftakhulaziz.github.io)
-[![GitHub followers](https://img.shields.io/github/followers/miftakhulaziz?style=social&logo=github)](https://github.com/miftakhulaziz?tab=followers)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-I'm a **Backend Software Engineer** based in **Jakarta, Indonesia**, currently working at an IT consultancy in Singapore. I specialize in building **scalable REST APIs**, implementing **microservices architecture**, and crafting **event-driven systems**.
-
-```go
-package main
-
-type Developer struct {
-    Name       string
-    Role       string
-    Location   string
-    Speciality []string
-}
-
-func main() {
-    me := Developer{
-        Name:     "Miftakhul Aziz",
-        Role:     "Backend Software Engineer",
-        Location: "Jakarta, Indonesia 🇮🇩",
-        Speciality: []string{
-            "Building REST APIs",
-            "Event-Driven Microservices",
-            "Clean Architecture",
-            "System Design",
-        },
-    }
-}
-```
-
----
-
-## 🛠️ Tech Stacks
-
-### Languages & Frameworks
-
-![Languages](https://skillicons.dev/icons?i=java,go,python,js,cpp\&theme=dark)
-
----
-
-### Backend Technologies
-
-![Backend](https://skillicons.dev/icons?i=spring,hibernate,nodejs\&theme=dark)
-
-**Also experienced with:**
-
-* ⚡ **Gin** (Go HTTP framework)
-* 🧩 **Apache Spark**
-* 📄 **Swagger / OpenAPI**
-
----
-
-### Databases & Messaging
-
-![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,kafka\&theme=dark)
-
----
-
-### Cloud & DevOps
-
-![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,git\&theme=dark)
-
----
-
-### Observability & Monitoring
-
-![Observability](https://skillicons.dev/icons?i=grafana,elasticsearch\&theme=dark)
-
-**Tracing & Logging:**
-
-* 🔍 **Jaeger**
-* ⏱️ **Tempo**
-* 📦 **Zipkin**
-* 📊 **Loki**
-* 📚 **ELK Stack (Elasticsearch, Logstash, Kibana)**
-
----
-
-### Tools & OS
-
-![Tools](https://skillicons.dev/icons?i=linux\&theme=dark)
-
-
-
----
-
-## 🎯 Featured Projects
-
-<details>
-<summary>🌟 Click to explore my work</summary>
-
-### 🏗️ Architecture & Design Patterns
-- **[spring-architecture](https://github.com/miftakhulaziz/spring-architecture)** - Clean Architecture implementation with Spring Boot
-  - ⭐ 2 stars | 📦 Java
-
-### 💳 Payment Integration
-- **[pgmidtrans](https://github.com/miftakhulaziz/pgmidtrans)** - Payment Gateway Integration with Midtrans
-  - ⭐ 4 stars | 🔱 2 forks | 📦 Java
-
-### 🎭 Event-Driven Systems
-- **[event-orchestrator](https://github.com/miftakhulaziz/event-orchestrator)** - Saga Pattern Implementation with Spring Boot
-  - ⭐ 1 star | 📦 Java
-
-### 🔍 Monitoring & Tracing
-- **[traceflow](https://github.com/miftakhulaziz/traceflow)** - Distributed Tracing and Monitoring with Spring Boot
-  - ⭐ 2 stars | 📦 Java
-
-### 🐹 Golang Projects
-- **[gobooks](https://github.com/miftakhulaziz/gobooks)** - REST API with Gin Framework & MySQL
-  - ⭐ 1 star | 📦 Go
-  
-- **[gorouter](https://github.com/miftakhulaziz/gorouter)** - Sample HTTP Router Implementation
-  - ⭐ 1 star | 📦 Go
-
-</details>
-
----
-
-## 📊 GitHub Stats
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miftakhulaziz&theme=github_dark"
-width="100%"
-/>
-<br/>
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miftakhulaziz&theme=github_dark"
-width="49%"
-/> <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miftakhulaziz&theme=github_dark"
-width="49%"
-/>
-
-
-## 💡 What I'm Focused On
-
-```yaml
-current_focus:
-  - Event-Driven Microservices Architecture
-  - Reactive Programming with Spring WebFlux
-  - Distributed Systems & Message Queuing
-  - Clean Architecture & Design Patterns
-  - Performance Optimization & Scalability
-  
-learning:
-  - Advanced Golang Patterns
-  - Kubernetes & Container Orchestration
-  - System Design at Scale
-  
-interests:
-  - Open Source Contribution
-  - Technical Writing
-  - Mentoring Junior Developers
-```
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amift)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mftakhullaziz.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
-
-## ✨ Fun Facts
-
-- 🍎 Working remotely from Jakarta, Indonesia
-- ☕ Coffee enthusiast - Good code needs good coffee!
-- 🎯 Clean Code Advocate - "Make it work, make it right, make it fast"
-- 🚀 Always learning new technologies
-- 💬 Feel free to ask me about: **Java, Golang, Microservices, System Design**
 
 ---
 
 <div align="center">
-  
-### 💭 Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://img.shields.io/badge/BUILD_SYSTEMS_THAT_SURVIVE_PRODUCTION-FFE500?style=for-the-badge&labelColor=111111" />
 
----
+<br />
+<br />
 
-### 👀 Profile Views
+<i>Clean architecture. Reliable backend. Observable systems.</i>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=miftakhulaziz&style=for-the-badge&color=blueviolet)
-
----
-
-⭐️ From [miftakhulaziz](https://github.com/miftakhulaziz) with 💙
-
-</div> -->
+</div>
