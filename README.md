@@ -44,33 +44,31 @@ I build backend systems with a strong focus on **clean architecture**, **maintai
 
 ## `TECH_STACK`
 
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00" />
-  <img src="https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8" />
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" />
-  <img src="https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=white&labelColor=6DB33F" />
-  <img src="https://img.shields.io/badge/Hibernate-111111?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=59666C" />
-  <img src="https://img.shields.io/badge/Gin-111111?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Nuxt-111111?style=for-the-badge&logo=nuxtdotjs&logoColor=white&labelColor=00DC82" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1" />
-  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" />
-  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" />
-  <img src="https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC382D" />
-  <img src="https://img.shields.io/badge/Kafka-111111?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=231F20" />
-  <img src="https://img.shields.io/badge/Elasticsearch-111111?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=005571" />
-  <img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" />
-  <img src="https://img.shields.io/badge/GCP-111111?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=4285F4" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED" />
-  <img src="https://img.shields.io/badge/Grafana-111111?style=for-the-badge&logo=grafana&logoColor=white&labelColor=F46800" />
-  <img src="https://img.shields.io/badge/Jaeger-111111?style=for-the-badge&logo=jaeger&logoColor=black&labelColor=66CFE3" />
-  <img src="https://img.shields.io/badge/ELK_Stack-111111?style=for-the-badge&logo=elasticstack&logoColor=white&labelColor=005571" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=go&logoColor=white" alt="Gin" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt-020420?style=flat-square&logo=nuxtdotjs&logoColor=00DC82" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=111111" alt="Jaeger" />
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white" alt="ELK Stack" />
 </p>
 
 ---
@@ -90,7 +88,7 @@ I build backend systems with a strong focus on **clean architecture**, **maintai
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azzeis&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azzeis&theme=transparent"
     width="100%"
     alt="GitHub Profile Summary"
   />
